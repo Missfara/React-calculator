@@ -5,7 +5,7 @@ import ParticlesBg from "particles-bg";
 const App = () => {
   return (
     <div>
-      <ParticlesBg type="circle" bg={true} />
+      {/* <ParticlesBg type="circle" bg={true} /> */}
       <h1 className="header">CALCULATOR</h1>
       <Calculator />
     </div>
